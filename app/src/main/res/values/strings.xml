@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wanna meet?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">Registration</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password again</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_registered_yet">"Not registered yet? </string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="your_chats">Your chats</string>
+    <string name="sign_out">Sign out</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="nickname">Nickname</string>
+    <string name="name">Name</string>
+    <string name="you_dont_have_any_chats">You don\'t have any chats!</string>
+    <string name="add_new_chat">Add new chat</string>
+</resources>

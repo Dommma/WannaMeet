@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306634653396",
+    "project_id": "wannameet-9ffea",
+    "storage_bucket": "wannameet-9ffea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306634653396:android:ab717ef45f9fdede000541",
+        "android_client_info": {
+          "package_name": "hu.bme.wannameet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306634653396-99n9a17i56ul6omq18q46vs8pvnv5me6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvYJkJWylZyi59JUlpJQTtilXs5xK2eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306634653396-99n9a17i56ul6omq18q46vs8pvnv5me6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
